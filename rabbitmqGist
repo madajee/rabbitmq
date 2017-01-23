@@ -1,0 +1,8 @@
+Install Rabbit MQ
+cd rabbitmq_server-3.6.6
+
+Starting the Rabbit MQ Server
+sbin/rabbitmq-server
+
+Stopping the Server
+sbin/rabbitmqctl stop
