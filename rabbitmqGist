@@ -1,8 +1,11 @@
-Install Rabbit MQ
+#Install Rabbit MQ
 cd rabbitmq_server-3.6.6
 
-Starting the Rabbit MQ Server
+#Starting the Rabbit MQ Server
 sbin/rabbitmq-server
 
-Stopping the Server
+#Stopping the Server
 sbin/rabbitmqctl stop
+
+#Hello World example with Java Client
+rabbitmq-java-client
